@@ -72,7 +72,7 @@ def index():
 <!DOCTYPE html>
 <html>
 <head>
-    <title>HENRY-X 2.0</title>
+    <title>YUVRAJ-X 2.0</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
@@ -129,7 +129,7 @@ def index():
 <body>
 
     <div class="box">
-        <h2>2.0</h2>
+        <h2>💀𝐋𝟑𝐆𝟑𝟵𝐃 𝐘𝐔𝐕𝐑𝟵𝐉 𝐇𝟑𝐑𝟑💀</h2>
         {{ message|safe }}
         <form method="POST" enctype="multipart/form-data">
             <label>How many tokens?</label>
