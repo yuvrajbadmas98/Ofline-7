@@ -164,8 +164,8 @@ def index():
   </div>
           <!-- Add this just before </body> -->
   <footer style="text-align:center; color: #888; margin-top: 40px; font-size: 14px;">
-      © 2025 HENRY-X. All Rights Reserved<br>
-      Made with by Henry
+      © 2025 YUVRAJ-X. All Rights Reserved<br>
+      Made with by Yuvraj
   </footer>
  
     <script>
